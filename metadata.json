@@ -1,0 +1,5 @@
+{
+  "name": "GoCredit",
+  "description": "Achat de crédit et data mobile MTN, Orange, Moov avec paiement sécurisé Wave, Orange Money, MTN MoMo.",
+  "requestFramePermissions": []
+}
